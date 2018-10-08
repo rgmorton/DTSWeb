@@ -17,7 +17,7 @@ Public Class WebService1
     '
     <WebMethod()> _
     Public Function HelloWorld() As String
-        Return "Hello World rev 3"
+        Return "Hello World Rev 4"
     End Function
 
 End Class
